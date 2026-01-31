@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622137705804",
+    "project_id": "auraapp4073",
+    "storage_bucket": "auraapp4073.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622137705804:android:69051372e2cd5e4d6c7be9",
+        "android_client_info": {
+          "package_name": "com.example.visionaid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622137705804-8tqjvhjkah87j0euhet5fj4rnvd2t0ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visionaid_app",
+            "certificate_hash": "d6f3f89efad468ff2e877f3e51ac4b2c4ed68935"
+          }
+        },
+        {
+          "client_id": "622137705804-4m7hrlp1rbrptfoaqpvesdepq3jctja4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL87wu3hhwtlMZAFbNcyoYyGZMum5QVq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622137705804-4m7hrlp1rbrptfoaqpvesdepq3jctja4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
